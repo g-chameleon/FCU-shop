@@ -1,0 +1,2 @@
+SELECT * FROM fcu_shop.product;
+INSERT INTO product (ID,NAME,IMAGE_URL,PRICE,DESCRIPTION)VALUES ('2'，'星之卡比 新星同盟'，'https://b.ecimg.tw/items/DGCW131900B4I2A/000001_1611818979.jpg'，'1690'，'在這次的《星之卡比 新星同盟》中，卡比可以與敵人成為夥伴，\n" + "透過「分享」Joy-Con 可以操控夥伴，享受最多同時 4 人協力遊戲的樂趣。');
